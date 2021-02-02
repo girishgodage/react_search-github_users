@@ -1,3 +1,7 @@
+# Serach Github users applicatin in React
+
+[Live Site](https://girish-search-githubusers.netlify.app/)
+
 ## Starter Project
 
 - css provided (global styles, styled components)
